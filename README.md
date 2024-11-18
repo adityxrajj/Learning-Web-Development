@@ -1,4 +1,4 @@
-# Daily Web Development Projects
+# Web Development Projects
 
 Welcome to my repository! I am currently learning web development and posting my source code daily. Each folder or file in this repository represents a different project, small or large, that I work on as I improve my skills.
 
@@ -12,9 +12,16 @@ I post daily to document my progress and to build a portfolio of projects as I l
 
 Each day, I'll commit a new project with the following structure:
 
-
-
-
+```
+/Lecture_01
+    index.html
+    style.css
+    script.js
+/Lecture_02
+    index.html
+    style.css
+    script.js
+```
 Every day will contain:
 
 - `index.html`: The main HTML file
@@ -44,5 +51,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 If you have any questions or feedback, feel free to reach out!
 
-- [GitHub Profile](<https://github.com/yourusername>)
-- [Email](your.email@example.com)
+- [GitHub Profile](<https://github.com/adityxrajj>)
+- [Email](aditya0503sfs@gmail.com)
