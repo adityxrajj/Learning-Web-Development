@@ -32,11 +32,11 @@ Each day's work is grouped into its own folder. The naming convention follows a 
         ├── script.js
     
 
-- **index.html**: The main HTML file that defines the structure of the webpage.
+- `index.html`: The main HTML file that defines the structure of the webpage.
 
-- **style.css**: The CSS file that defines the layout and design elements.
+- `style.css`: The CSS file that defines the layout and design elements.
 
-- **script.js**: JavaScript file that adds interactivity (if applicable).
+- `script.js`: JavaScript file that adds interactivity (if applicable).
 
 Each project folder will contain these basic files to ensure a consistent format. As I progress, I’ll be adding new files and technologies to enrich the projects.
 
