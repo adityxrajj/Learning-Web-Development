@@ -61,6 +61,10 @@ At the heart of this repository are the core technologies of web development. He
 
 As I continue to learn, I’ll keep adding new tools, frameworks, and technologies to this list, from API integration to databases.
 
+## 📚 Learning Resources
+
+In addition to hands-on practice, I’m also learning from various online resources to improve my skills. One of the main channels I follow is [CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=1qcrLeHcxhNOjP6-), a great YouTube channel that offers comprehensive tutorials on web development. The tutorials cover everything from the basics of HTML, CSS, and JavaScript to advanced topics like React, Node.js, and MongoDB. By following along with these tutorials, I’m able to reinforce my learning and apply new concepts to my daily projects.
+
 ## 🚧 Work in Progress
 This repository is a **work in progress** and will continue to evolve as I expand my knowledge and tackle new challenges. The projects here may evolve with improvements, additional features, or even complete rewrites as I learn more advanced techniques.
 
