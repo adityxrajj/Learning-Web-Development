@@ -1,12 +1,11 @@
 .red {
-    color: rgb(255, 0, 0);
+    color: darkgreen;
 }
 
 .bg-yellow {
-    background-color: rgb(255, 255, 209)
+    background-color: lightgreen;
 }
 
-
 #second-div {
-    background-color: rgb(219, 255, 214);
+    background-color: lightcyan
 }
