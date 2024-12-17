@@ -1,15 +1,15 @@
 p {
-    background-color: rgb(176, 255, 229);
+    background-color: lightgreen;
 }
 
 a {
-    background-color: #ffc9c9;
+    background-color: lightpink;
 }
 
 div {
-    background-color: rgb(255, 255, 184);
+    background-color: lightgoldenrodyellow;
 }
 
 span {
-    background-color: rgb(225, 193, 255);
+    background-color: lightblue;
 }
