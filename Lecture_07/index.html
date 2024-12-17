@@ -4,18 +4,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Forms - Learning</title>
+    <title>Learning Forms</title>
 </head>
 
 <body>
-    <h1>Form to apply for Course</h1>
+    <h1>Learning Forms</h1>
     <form action="post">
+
+        <!-- Text Input -->
         <div>
-            <label for="username">Enter your username</label>
-            <input type="text" id="username" name="username" placeholder="Enter your name" autofocus>
+            <label for="username">Enter your username: </label>
+            <input type="text" id="username" name="username" placeholder="Enter your username">
         </div>
 
-        <!-- for gender -->
+        <!-- Ratio -->
         <div>
             <input type="radio" id="male" name="gender" value="male">
             <label for="male">Male</label>
@@ -23,28 +25,27 @@
             <label for="female">Female</label>
         </div>
 
-        <!-- checkbox -->
+        <!-- Checkbox -->
         <div>
-            <input type="checkbox" id="subscribe" name="subscribe" value="yes">
-            <label for="subscribe">Subscribe to Newsletter</label>
+            <input type="checkbox" name="subscribe" id="subscribe" value="yes">
+            <label for="subscribe">Subscribe to my Newsletter</label>
         </div>
 
-        <!-- textarea  -->
+        <!-- Textarea -->
         <div>
-            <label for="comment">Enter your Comment</label>
+            <label for="comment">Enter your Comments</label>
             <br>
-            <textarea id="comment" name="comment" rows="5" cols="50"></textarea>
+            <textarea name="comments" id="comment" rows="5" cols="50"></textarea>
         </div>
 
-        <!-- select  -->
+        <!-- Select -->
         <div>
             <select name="fruits">
                 <option value="apple">Apple</option>
                 <option value="banana">Banana</option>
-                <option value="mango">Mango</option>
+                <option value="cherry">Cherry</option>
             </select>
         </div>
-
     </form>
 </body>
 
